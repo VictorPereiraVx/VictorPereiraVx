@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Victor 👋
+# Olá, eu sou o Victor
 
 Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
 
@@ -8,21 +8,21 @@ Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET MAUI" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET MAUI" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorPereiraVx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br" height="165" />
@@ -35,23 +35,7 @@ Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
 
 ---
 
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorPereiraVx&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=4" />
-</div>
-
----
-
-### 📈 Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorPereiraVx&theme=dracula&hide_border=true&area=true" />
-</div>
-
----
-
-### 📌 Repositórios em destaque
+### Repositórios em destaque
 
 <div align="left">
   <a href="https://github.com/VictorPereiraVx/DiscordBotGenerativo-MarkovChain-">
@@ -64,7 +48,7 @@ Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
 
 ---
 
-### 📬 Contato
+### Contato
 
 <a href="mailto:vsantosp1308@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-vsantosp1308-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -72,4 +56,4 @@ Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
 
 ---
 
-<p align="center">Obrigado pela visita! ⭐ Se curtiu algo por aqui, considera dar uma estrela nos repositórios.</p>
+<p align="center">Obrigado pela visita! Se curtiu algo por aqui, considera dar uma estrela nos repositórios.</p>
