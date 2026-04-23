@@ -17,7 +17,3 @@
 <a href="mailto:vsantosp1308@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-vsantosp1308-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-
----
-
-<p align="center">Obrigado pela visita! Se curtiu algo por aqui, considera dar uma estrela nos repositórios.</p>
