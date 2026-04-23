@@ -1,81 +1,75 @@
-<h1 align="center">Bem-vindo ao meu GitHub</h1>
-<div role="separator" align="center" style="margin:26px 0;">
-  <img src="blazor-line-wide.gif" alt="separador animado"
-       style="display:block;width:100%;height:6px;border-radius:999px;object-fit:cover;" />
-</div>
-
-<h2 align="center">Tecnologias</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       alt="C" title="C" width="48" height="48" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-       alt="C#" title="C#" width="48" height="48" style="margin:6px;" />
-  <img src="https://cdn.simpleicons.org/blazor"
-       alt="Blazor" title="Blazor" width="48" height="48" style="margin:6px;" />
-  <img src="https://cdn.simpleicons.org/dotnet"
-       alt=".NET MAUI" title=".NET MAUI" width="48" height="48" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       alt="MySQL" title="MySQL" width="48" height="48" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       alt="HTML5" title="HTML5" width="48" height="48" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       alt="Java" title="Java" width="48" height="48" style="margin:6px;" /> 
-</p>
-
-<div role="separator" align="center" style="margin:26px 0;">
-  <img src="blazor-line-wide.gif" alt="separador animado"
-       style="display:block;width:100%;height:6px;border-radius:999px;object-fit:cover;" />
-</div>
-
-<h2 align="center">GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorPereiraVx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=pt-br" height="170" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPereiraVx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages">
-  <img src="https://streak-stats.demolab.com?user=VictorPereiraVx&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="170" alt="GitHub Streak">
+
+# Olá, eu sou o Victor 👋
+
+Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
+
 </div>
 
-<h2 align="center">🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorPereiraVx&theme=dracula&no-frame=true&no-bg=true&column=6" alt="Troféus do perfil">
+---
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET MAUI" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
 </p>
 
-<h2 align="center">Commits</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorPereiraVx&theme=dracula&hide_border=false" alt="Gráfico de atividades">
-</p>
+---
 
-<div role="separator" align="center" style="margin:26px 0;">
-  <img src="blazor-line-wide.gif" alt="separador animado"
-       style="display:block;width:100%;height:6px;border-radius:999px;object-fit:cover;" />
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorPereiraVx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPereiraVx&locale=pt-br&hide_title=false&layout=compact&card_width=290&langs_count=8&theme=dracula&hide_border=true" height="165" />
 </div>
 
-<h2 align="center">Repositórios em destaque</h2>
-<p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorPereiraVx&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_border=true" height="165" />
+</div>
+
+---
+
+### 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VictorPereiraVx&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=4" />
+</div>
+
+---
+
+### 📈 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorPereiraVx&theme=dracula&hide_border=true&area=true" />
+</div>
+
+---
+
+### 📌 Repositórios em destaque
+
+<div align="left">
   <a href="https://github.com/VictorPereiraVx/DiscordBotGenerativo-MarkovChain-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPereiraVx&repo=DiscordBotGenerativo-MarkovChain-&theme=dracula" alt="Repo 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPereiraVx&repo=DiscordBotGenerativo-MarkovChain-&theme=dracula&hide_border=true" />
   </a>
   <a href="https://github.com/VictorPereiraVx/Ponte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPereiraVx&repo=Ponte&theme=dracula" alt="Repo 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPereiraVx&repo=Ponte&theme=dracula&hide_border=true" />
   </a>
-</p>
-
-<h2>Onde me encontrar</h2>
-<p>
-  <a href="mailto:vsantosp1308@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white&labelColor=333" alt="Email">
-  </a>
-</p>
-
-<div role="separator" align="center" style="margin:26px 0;">
-  <img src="blazor-line-wide.gif" alt="separador animado"
-       style="display:block;width:100%;height:6px;border-radius:999px;object-fit:cover;" />
 </div>
 
-<!-- RODAPÉ -->
-<p align="center">Obrigado pela visita! ⭐ Se curtiu algo por aqui, considere dar uma estrela nos repositórios.</p>
+---
 
-<!-- EXTRAS OPCIONAIS (remova se não usar)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&layout=compact&theme=dracula" alt="WakaTime">
-</p>
--->
+### 📬 Contato
+
+<a href="mailto:vsantosp1308@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vsantosp1308-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+<p align="center">Obrigado pela visita! ⭐ Se curtiu algo por aqui, considera dar uma estrela nos repositórios.</p>
