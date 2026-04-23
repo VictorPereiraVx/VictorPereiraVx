@@ -1,5 +1,3 @@
-### Tecnologias
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
@@ -13,21 +11,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### Repositórios em destaque
-
-<div align="left">
-  <a href="https://github.com/VictorPereiraVx/DiscordBotGenerativo-MarkovChain-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPereiraVx&repo=DiscordBotGenerativo-MarkovChain-&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/VictorPereiraVx/Ponte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPereiraVx&repo=Ponte&theme=dracula&hide_border=true" />
-  </a>
-</div>
-
----
 
 ### Contato
 
