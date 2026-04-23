@@ -1,13 +1,3 @@
-<div align="center">
-
-# Olá, eu sou o Victor
-
-Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
-
-</div>
-
----
-
 ### Tecnologias
 
 <div align="center">
@@ -22,19 +12,6 @@ Desenvolvedor focado no ecossistema **.NET** — C#, Blazor e .NET MAUI
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></td>
     </tr>
   </table>
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorPereiraVx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPereiraVx&locale=pt-br&hide_title=false&layout=compact&card_width=290&langs_count=8&theme=dracula&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorPereiraVx&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_border=true" height="165" />
 </div>
 
 ---
